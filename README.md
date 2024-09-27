@@ -33,10 +33,8 @@ Model performance with default threshold (0.05) was poor:
 
            0       0.86      0.99      0.92       795
            1       0.65      0.09      0.16       143
-
     accuracy                           0.85       938
-   macro avg       0.75      0.54      0.54       938
-weighted avg       0.83      0.85      0.80       938
+
 
 Model performance was greatly improved using the best threshold obtained from ROC curve (0.14):
 
@@ -44,10 +42,8 @@ Model performance was greatly improved using the best threshold obtained from RO
 
            0       0.93      0.64      0.76       795
            1       0.27      0.73      0.39       143
-
     accuracy                           0.65       938
-   macro avg       0.60      0.69      0.58       938
-weighted avg       0.83      0.65      0.70       938
+
 
 Conclusion: Using the best threshold obtained from ROC curve greatly improved the model performance in terms of
 heart disease prediction:
