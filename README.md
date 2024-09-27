@@ -47,6 +47,9 @@ Model performance was greatly improved using the best threshold obtained from RO
 
 Conclusion: Using the best threshold obtained from ROC curve greatly improved the model performance in terms of
 heart disease prediction:
+
 default threshold (0.5): recall(0)=0.99 recall(1)=0.09
+
 the best threshold(0.14): recall(0)=0.64 recall(1)=0.73
+
 0-no heart disease 1-heart disease
